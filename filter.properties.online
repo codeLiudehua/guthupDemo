@@ -5,5 +5,5 @@ HIVE=/home/weblog/hive/bin/hive
 HIVE_WEBLOG=/home/weblog/hive-weblog/bin/hive
 SPARK_HOME=/home/weblog/spark
 
-LOCAL_BASE_DIR=/home/weblog/projects/githupDemo
+LOCAL_BASE_DIR=/home/weblog/mengfm/guthupDemo
 JAR=${LOCAL_BASE_DIR}/githupDemo/githupDemo-0.1.0-jar-with-dependencies.jar
