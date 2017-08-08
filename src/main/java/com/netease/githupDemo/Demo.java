@@ -1,3 +1,5 @@
+package com.netease.githupDemo;
+
 /**
  * Created by mengfanming on 2017/8/8.
  */
