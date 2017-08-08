@@ -4,11 +4,6 @@ HADOOP=${HADOOP_HOME}/bin/hadoop
 HIVE=/home/weblog/hive/bin/hive
 HIVE_WEBLOG=/home/weblog/hive-weblog/bin/hive
 SPARK_HOME=/home/weblog/spark
-WORD_SEGMENT_LIB_DIR=/home/weblog/lib/wordsegment
 
-LOCAL_BASE_DIR=/home/weblog/projects/models
-JAR=${LOCAL_BASE_DIR}/models/models-0.1.0-jar-with-dependencies.jar
-RUN_DIR=${LOCAL_BASE_DIR}/models/run
-DATA_DIR=${LOCAL_BASE_DIR}/data
-POST_MINING_HDFS_PATH=/ntes_weblog/postUserMining/
-DATAMINING_HIVE=/ntes_weblog/datamining/hive/
+LOCAL_BASE_DIR=/home/weblog/projects/githupDemo
+JAR=${LOCAL_BASE_DIR}/githupDemo/githupDemo-0.1.0-jar-with-dependencies.jar
