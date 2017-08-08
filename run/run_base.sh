@@ -55,4 +55,4 @@ featureTotalNum=`$HADOOP fs -text $featureIndSavePath/p* |wc -l`
 
 
 echo "CalcGenderNum"
-sh $baseDir/runSparkJob.sh com.netease.models.userProfile.gender.train.CalcGenderNum $dataTrainPath/moreFeatureNorm $dataGenderNumPath
+sh $baseDir/runSparkJob.sh com.netease.spark.demo.CalcGenderNum $dataTrainPath/moreFeatureNorm $dataGenderNumPath
