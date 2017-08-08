@@ -1,6 +1,6 @@
 
-##µÚÒ»¸ö²ÎÊıÊÇ²úÆ·°æ±¾(Ä¬ÈÏÊÇmaster)
-## build             (Ä¬ÈÏÎª build master)
+##ç¬¬ä¸€ä¸ªå‚æ•°æ˜¯äº§å“ç‰ˆæœ¬(é»˜è®¤æ˜¯master)
+## build             (é»˜è®¤ä¸º build master)
 ## build master
 
 if [ $# == 1 ]; then

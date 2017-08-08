@@ -30,6 +30,13 @@
     </bytecodeTargetLevel>
   </component>
   <component name="CopyrightManager" default="" />
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/run/build.sh" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/run/runSparkJob.sh" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/run/run_base.sh" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/netease/spark/demo/CalcGenderNum.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/netease/uitls/BroadcastMap.scala" charset="UTF-8" />
+  </component>
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
   </component>
