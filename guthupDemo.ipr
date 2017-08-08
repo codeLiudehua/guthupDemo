@@ -237,39 +237,6 @@
         <root url="jar://$MAVEN_REPOSITORY$/com/clearspring/analytics/stream/2.7.0/stream-2.7.0-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Maven: com.esotericsoftware.kryo:kryo:2.21">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/esotericsoftware/kryo/kryo/2.21/kryo-2.21.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/com/esotericsoftware/kryo/kryo/2.21/kryo-2.21-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/esotericsoftware/kryo/kryo/2.21/kryo-2.21-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: com.esotericsoftware.minlog:minlog:1.2">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/esotericsoftware/minlog/minlog/1.2/minlog-1.2.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/com/esotericsoftware/minlog/minlog/1.2/minlog-1.2-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/esotericsoftware/minlog/minlog/1.2/minlog-1.2-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: com.esotericsoftware.reflectasm:reflectasm:shaded:1.07">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/esotericsoftware/reflectasm/reflectasm/1.07/reflectasm-1.07-shaded.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/com/esotericsoftware/reflectasm/reflectasm/1.07/reflectasm-1.07-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/esotericsoftware/reflectasm/reflectasm/1.07/reflectasm-1.07-sources.jar!/" />
-      </SOURCES>
-    </library>
     <library name="Maven: com.esotericsoftware:kryo-shaded:3.0.3">
       <CLASSES>
         <root url="jar://$MAVEN_REPOSITORY$/com/esotericsoftware/kryo-shaded/3.0.3/kryo-shaded-3.0.3.jar!/" />
@@ -336,17 +303,6 @@
         <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-paranamer/2.6.5/jackson-module-paranamer-2.6.5-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Maven: com.fasterxml.jackson.module:jackson-module-scala_2.10:2.4.4">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-scala_2.10/2.4.4/jackson-module-scala_2.10-2.4.4.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-scala_2.10/2.4.4/jackson-module-scala_2.10-2.4.4-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-scala_2.10/2.4.4/jackson-module-scala_2.10-2.4.4-sources.jar!/" />
-      </SOURCES>
-    </library>
     <library name="Maven: com.fasterxml.jackson.module:jackson-module-scala_2.11:2.6.5">
       <CLASSES>
         <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/module/jackson-module-scala_2.11/2.6.5/jackson-module-scala_2.11-2.6.5.jar!/" />
@@ -369,17 +325,6 @@
         <root url="jar://$MAVEN_REPOSITORY$/com/github/fommil/netlib/core/1.1.2/core-1.1.2-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Maven: com.github.jai-imageio:jai-imageio-core:1.3.0">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/github/jai-imageio/jai-imageio-core/1.3.0/jai-imageio-core-1.3.0.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/com/github/jai-imageio/jai-imageio-core/1.3.0/jai-imageio-core-1.3.0-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/github/jai-imageio/jai-imageio-core/1.3.0/jai-imageio-core-1.3.0-sources.jar!/" />
-      </SOURCES>
-    </library>
     <library name="Maven: com.github.rwl:jtransforms:2.4.0">
       <CLASSES>
         <root url="jar://$MAVEN_REPOSITORY$/com/github/rwl/jtransforms/2.4.0/jtransforms-2.4.0.jar!/" />
@@ -400,17 +345,6 @@
       </JAVADOC>
       <SOURCES>
         <root url="jar://$MAVEN_REPOSITORY$/com/github/stephenc/findbugs/findbugs-annotations/1.3.9-1/findbugs-annotations-1.3.9-1-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: com.google.code.findbugs:annotations:2.0.1">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/google/code/findbugs/annotations/2.0.1/annotations-2.0.1.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/com/google/code/findbugs/annotations/2.0.1/annotations-2.0.1-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/google/code/findbugs/annotations/2.0.1/annotations-2.0.1-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Maven: com.google.code.findbugs:jsr305:3.0.0">
@@ -600,105 +534,6 @@
         <root url="jar://$MAVEN_REPOSITORY$/com/thoughtworks/paranamer/paranamer/2.3/paranamer-2.3-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Maven: com.twelvemonkeys.common:common-image:3.1.1">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/common/common-image/3.1.1/common-image-3.1.1.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/common/common-image/3.1.1/common-image-3.1.1-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/common/common-image/3.1.1/common-image-3.1.1-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: com.twelvemonkeys.common:common-io:3.1.1">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/common/common-io/3.1.1/common-io-3.1.1.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/common/common-io/3.1.1/common-io-3.1.1-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/common/common-io/3.1.1/common-io-3.1.1-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: com.twelvemonkeys.common:common-lang:3.1.1">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/common/common-lang/3.1.1/common-lang-3.1.1.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/common/common-lang/3.1.1/common-lang-3.1.1-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/common/common-lang/3.1.1/common-lang-3.1.1-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: com.twelvemonkeys.imageio:imageio-bmp:3.1.1">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/imageio/imageio-bmp/3.1.1/imageio-bmp-3.1.1.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/imageio/imageio-bmp/3.1.1/imageio-bmp-3.1.1-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/imageio/imageio-bmp/3.1.1/imageio-bmp-3.1.1-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: com.twelvemonkeys.imageio:imageio-core:3.1.1">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/imageio/imageio-core/3.1.1/imageio-core-3.1.1.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/imageio/imageio-core/3.1.1/imageio-core-3.1.1-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/imageio/imageio-core/3.1.1/imageio-core-3.1.1-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: com.twelvemonkeys.imageio:imageio-jpeg:3.1.1">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/imageio/imageio-jpeg/3.1.1/imageio-jpeg-3.1.1.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/imageio/imageio-jpeg/3.1.1/imageio-jpeg-3.1.1-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/imageio/imageio-jpeg/3.1.1/imageio-jpeg-3.1.1-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: com.twelvemonkeys.imageio:imageio-metadata:3.1.1">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/imageio/imageio-metadata/3.1.1/imageio-metadata-3.1.1.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/imageio/imageio-metadata/3.1.1/imageio-metadata-3.1.1-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/imageio/imageio-metadata/3.1.1/imageio-metadata-3.1.1-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: com.twelvemonkeys.imageio:imageio-psd:3.1.1">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/imageio/imageio-psd/3.1.1/imageio-psd-3.1.1.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/imageio/imageio-psd/3.1.1/imageio-psd-3.1.1-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/imageio/imageio-psd/3.1.1/imageio-psd-3.1.1-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: com.twelvemonkeys.imageio:imageio-tiff:3.1.1">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/imageio/imageio-tiff/3.1.1/imageio-tiff-3.1.1.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/imageio/imageio-tiff/3.1.1/imageio-tiff-3.1.1-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twelvemonkeys/imageio/imageio-tiff/3.1.1/imageio-tiff-3.1.1-sources.jar!/" />
-      </SOURCES>
-    </library>
     <library name="Maven: com.twitter:chill-java:0.8.0">
       <CLASSES>
         <root url="jar://$MAVEN_REPOSITORY$/com/twitter/chill-java/0.8.0/chill-java-0.8.0.jar!/" />
@@ -710,17 +545,6 @@
         <root url="jar://$MAVEN_REPOSITORY$/com/twitter/chill-java/0.8.0/chill-java-0.8.0-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Maven: com.twitter:chill_2.10:0.5.0">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twitter/chill_2.10/0.5.0/chill_2.10-0.5.0.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twitter/chill_2.10/0.5.0/chill_2.10-0.5.0-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/twitter/chill_2.10/0.5.0/chill_2.10-0.5.0-sources.jar!/" />
-      </SOURCES>
-    </library>
     <library name="Maven: com.twitter:chill_2.11:0.8.0">
       <CLASSES>
         <root url="jar://$MAVEN_REPOSITORY$/com/twitter/chill_2.11/0.8.0/chill_2.11-0.8.0.jar!/" />
@@ -730,50 +554,6 @@
       </JAVADOC>
       <SOURCES>
         <root url="jar://$MAVEN_REPOSITORY$/com/twitter/chill_2.11/0.8.0/chill_2.11-0.8.0-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: com.typesafe.akka:akka-actor_2.10:2.3.11">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.10/2.3.11/akka-actor_2.10-2.3.11.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.10/2.3.11/akka-actor_2.10-2.3.11-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.10/2.3.11/akka-actor_2.10-2.3.11-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: com.typesafe.akka:akka-remote_2.10:2.3.11">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/typesafe/akka/akka-remote_2.10/2.3.11/akka-remote_2.10-2.3.11.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/com/typesafe/akka/akka-remote_2.10/2.3.11/akka-remote_2.10-2.3.11-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/typesafe/akka/akka-remote_2.10/2.3.11/akka-remote_2.10-2.3.11-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: com.typesafe.akka:akka-slf4j_2.10:2.3.11">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/typesafe/akka/akka-slf4j_2.10/2.3.11/akka-slf4j_2.10-2.3.11.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/com/typesafe/akka/akka-slf4j_2.10/2.3.11/akka-slf4j_2.10-2.3.11-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/typesafe/akka/akka-slf4j_2.10/2.3.11/akka-slf4j_2.10-2.3.11-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: com.typesafe:config:1.2.1">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/typesafe/config/1.2.1/config-1.2.1.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/com/typesafe/config/1.2.1/config-1.2.1-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/com/typesafe/config/1.2.1/config-1.2.1-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Maven: com.univocity:univocity-parsers:2.2.1">
@@ -1106,17 +886,6 @@
         <root url="jar://$MAVEN_REPOSITORY$/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Maven: joda-time:joda-time:2.2">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/joda-time/joda-time/2.2/joda-time-2.2.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/joda-time/joda-time/2.2/joda-time-2.2-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/joda-time/joda-time/2.2/joda-time-2.2-sources.jar!/" />
-      </SOURCES>
-    </library>
     <library name="Maven: junit:junit:4.11">
       <CLASSES>
         <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/" />
@@ -1137,17 +906,6 @@
       </JAVADOC>
       <SOURCES>
         <root url="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.12/log4j-1.2.12-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: net.ericaro:neoitertools:1.0.0">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/net/ericaro/neoitertools/1.0.0/neoitertools-1.0.0.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/net/ericaro/neoitertools/1.0.0/neoitertools-1.0.0-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/net/ericaro/neoitertools/1.0.0/neoitertools-1.0.0-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Maven: net.java.dev.jets3t:jets3t:0.9.0">
@@ -1214,17 +972,6 @@
       </JAVADOC>
       <SOURCES>
         <root url="jar://$MAVEN_REPOSITORY$/net/sourceforge/f2j/arpack_combined_all/0.1/arpack_combined_all-0.1-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.ansj:ansj_seg:5.1.2">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/ansj/ansj_seg/5.1.2/ansj_seg-5.1.2.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/ansj/ansj_seg/5.1.2/ansj_seg-5.1.2-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/ansj/ansj_seg/5.1.2/ansj_seg-5.1.2-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Maven: org.antlr:antlr4-runtime:4.5.3">
@@ -1401,17 +1148,6 @@
       </JAVADOC>
       <SOURCES>
         <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/server/apacheds-kerberos-codec/2.0.0-M15/apacheds-kerberos-codec-2.0.0-M15-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.apache.directory.studio:org.apache.commons.codec:1.8">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/studio/org.apache.commons.codec/1.8/org.apache.commons.codec-1.8.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/studio/org.apache.commons.codec/1.8/org.apache.commons.codec-1.8-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/apache/directory/studio/org.apache.commons.codec/1.8/org.apache.commons.codec-1.8-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Maven: org.apache.hadoop:hadoop-annotations:2.7.3">
@@ -1667,17 +1403,6 @@
         <root url="jar://$MAVEN_REPOSITORY$/org/apache/ivy/ivy/2.4.0/ivy-2.4.0-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Maven: org.apache.mesos:mesos:shaded-protobuf:0.21.1">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/apache/mesos/mesos/0.21.1/mesos-0.21.1-shaded-protobuf.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/apache/mesos/mesos/0.21.1/mesos-0.21.1-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/apache/mesos/mesos/0.21.1/mesos-0.21.1-sources.jar!/" />
-      </SOURCES>
-    </library>
     <library name="Maven: org.apache.parquet:parquet-column:1.8.1">
       <CLASSES>
         <root url="jar://$MAVEN_REPOSITORY$/org/apache/parquet/parquet-column/1.8.1/parquet-column-1.8.1.jar!/" />
@@ -1744,17 +1469,6 @@
         <root url="jar://$MAVEN_REPOSITORY$/org/apache/parquet/parquet-jackson/1.8.1/parquet-jackson-1.8.1-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Maven: org.apache.spark:spark-catalyst_2.10:1.6.2">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.10/1.6.2/spark-catalyst_2.10-1.6.2.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.10/1.6.2/spark-catalyst_2.10-1.6.2-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.10/1.6.2/spark-catalyst_2.10-1.6.2-sources.jar!/" />
-      </SOURCES>
-    </library>
     <library name="Maven: org.apache.spark:spark-catalyst_2.11:2.1.1">
       <CLASSES>
         <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.1.1/spark-catalyst_2.11-2.1.1.jar!/" />
@@ -1764,17 +1478,6 @@
       </JAVADOC>
       <SOURCES>
         <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-catalyst_2.11/2.1.1/spark-catalyst_2.11-2.1.1-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.apache.spark:spark-core_2.10:1.6.2">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.6.2/spark-core_2.10-1.6.2.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.6.2/spark-core_2.10-1.6.2-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-core_2.10/1.6.2/spark-core_2.10-1.6.2-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Maven: org.apache.spark:spark-core_2.11:2.1.0">
@@ -1797,17 +1500,6 @@
       </JAVADOC>
       <SOURCES>
         <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-graphx_2.11/2.1.1/spark-graphx_2.11-2.1.1-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.apache.spark:spark-launcher_2.10:1.6.2">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-launcher_2.10/1.6.2/spark-launcher_2.10-1.6.2.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-launcher_2.10/1.6.2/spark-launcher_2.10-1.6.2-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-launcher_2.10/1.6.2/spark-launcher_2.10-1.6.2-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Maven: org.apache.spark:spark-launcher_2.11:2.1.0">
@@ -1843,17 +1535,6 @@
         <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-mllib_2.11/2.1.1/spark-mllib_2.11-2.1.1-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Maven: org.apache.spark:spark-network-common_2.10:1.6.2">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-network-common_2.10/1.6.2/spark-network-common_2.10-1.6.2.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-network-common_2.10/1.6.2/spark-network-common_2.10-1.6.2-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-network-common_2.10/1.6.2/spark-network-common_2.10-1.6.2-sources.jar!/" />
-      </SOURCES>
-    </library>
     <library name="Maven: org.apache.spark:spark-network-common_2.11:2.1.0">
       <CLASSES>
         <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-network-common_2.11/2.1.0/spark-network-common_2.11-2.1.0.jar!/" />
@@ -1863,17 +1544,6 @@
       </JAVADOC>
       <SOURCES>
         <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-network-common_2.11/2.1.0/spark-network-common_2.11-2.1.0-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.apache.spark:spark-network-shuffle_2.10:1.6.2">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-network-shuffle_2.10/1.6.2/spark-network-shuffle_2.10-1.6.2.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-network-shuffle_2.10/1.6.2/spark-network-shuffle_2.10-1.6.2-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-network-shuffle_2.10/1.6.2/spark-network-shuffle_2.10-1.6.2-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Maven: org.apache.spark:spark-network-shuffle_2.11:2.1.0">
@@ -1896,17 +1566,6 @@
       </JAVADOC>
       <SOURCES>
         <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sketch_2.11/2.1.1/spark-sketch_2.11-2.1.1-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.apache.spark:spark-sql_2.10:1.6.2">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.10/1.6.2/spark-sql_2.10-1.6.2.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.10/1.6.2/spark-sql_2.10-1.6.2-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.10/1.6.2/spark-sql_2.10-1.6.2-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Maven: org.apache.spark:spark-sql_2.11:2.1.1">
@@ -1940,17 +1599,6 @@
       </JAVADOC>
       <SOURCES>
         <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-tags_2.11/2.1.1/spark-tags_2.11-2.1.1-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.apache.spark:spark-unsafe_2.10:1.6.2">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-unsafe_2.10/1.6.2/spark-unsafe_2.10-1.6.2.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-unsafe_2.10/1.6.2/spark-unsafe_2.10-1.6.2-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-unsafe_2.10/1.6.2/spark-unsafe_2.10-1.6.2-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Maven: org.apache.spark:spark-unsafe_2.11:2.1.0">
@@ -1995,578 +1643,6 @@
       </JAVADOC>
       <SOURCES>
         <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-ext-jdk15on/1.50/bcprov-ext-jdk15on-1.50-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:artoolkitplus:2.3.1-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/artoolkitplus/2.3.1-1.3/artoolkitplus-2.3.1-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:ffmpeg:3.2.1-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/ffmpeg/3.2.1-1.3/ffmpeg-3.2.1-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:flandmark:1.07-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flandmark/1.07-1.3/flandmark-1.07-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:flycapture:2.9.3.43-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture/2.9.3.43-1.3/flycapture-2.9.3.43-1.3.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture/2.9.3.43-1.3/flycapture-2.9.3.43-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/flycapture/2.9.3.43-1.3/flycapture-2.9.3.43-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:hdf5-platform:1.10.0-patch1-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5-platform/1.10.0-patch1-1.3/hdf5-platform-1.10.0-patch1-1.3.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5-platform/1.10.0-patch1-1.3/hdf5-platform-1.10.0-patch1-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5-platform/1.10.0-patch1-1.3/hdf5-platform-1.10.0-patch1-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:hdf5:1.10.0-patch1-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:hdf5:linux-ppc64le:1.10.0-patch1-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-linux-ppc64le.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:hdf5:linux-x86:1.10.0-patch1-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-linux-x86.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:hdf5:linux-x86_64:1.10.0-patch1-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-linux-x86_64.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:hdf5:macosx-x86_64:1.10.0-patch1-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-macosx-x86_64.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:hdf5:windows-x86:1.10.0-patch1-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-windows-x86.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:hdf5:windows-x86_64:1.10.0-patch1-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-windows-x86_64.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/hdf5/1.10.0-patch1-1.3/hdf5-1.10.0-patch1-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:leptonica-platform:1.73-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica-platform/1.73-1.3/leptonica-platform-1.73-1.3.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica-platform/1.73-1.3/leptonica-platform-1.73-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica-platform/1.73-1.3/leptonica-platform-1.73-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:leptonica:1.73-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:leptonica:android-arm:1.73-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-android-arm.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:leptonica:android-x86:1.73-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-android-x86.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:leptonica:linux-armhf:1.73-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-linux-armhf.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:leptonica:linux-ppc64le:1.73-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-linux-ppc64le.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:leptonica:linux-x86:1.73-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-linux-x86.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:leptonica:linux-x86_64:1.73-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-linux-x86_64.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:leptonica:macosx-x86_64:1.73-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-macosx-x86_64.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:leptonica:windows-x86:1.73-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-windows-x86.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:leptonica:windows-x86_64:1.73-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-windows-x86_64.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/leptonica/1.73-1.3/leptonica-1.73-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:libdc1394:2.2.4-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libdc1394/2.2.4-1.3/libdc1394-2.2.4-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:libfreenect2:0.2.0-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect2/0.2.0-1.3/libfreenect2-0.2.0-1.3.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect2/0.2.0-1.3/libfreenect2-0.2.0-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect2/0.2.0-1.3/libfreenect2-0.2.0-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:libfreenect:0.5.3-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/libfreenect/0.5.3-1.3/libfreenect-0.5.3-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:librealsense:1.9.6-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/librealsense/1.9.6-1.3/librealsense-1.9.6-1.3.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/librealsense/1.9.6-1.3/librealsense-1.9.6-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/librealsense/1.9.6-1.3/librealsense-1.9.6-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:openblas-platform:0.2.19-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas-platform/0.2.19-1.3/openblas-platform-0.2.19-1.3.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas-platform/0.2.19-1.3/openblas-platform-0.2.19-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas-platform/0.2.19-1.3/openblas-platform-0.2.19-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:openblas:0.2.19-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:openblas:android-arm:0.2.19-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-android-arm.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:openblas:android-x86:0.2.19-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-android-x86.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:openblas:linux-armhf:0.2.19-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-linux-armhf.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:openblas:linux-ppc64le:0.2.19-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-linux-ppc64le.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:openblas:linux-x86:0.2.19-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-linux-x86.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:openblas:linux-x86_64:0.2.19-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-linux-x86_64.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:openblas:macosx-x86_64:0.2.19-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-macosx-x86_64.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:openblas:windows-x86:0.2.19-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-windows-x86.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:openblas:windows-x86_64:0.2.19-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-windows-x86_64.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/openblas/0.2.19-1.3/openblas-0.2.19-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:opencv-platform:3.1.0-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv-platform/3.1.0-1.3/opencv-platform-3.1.0-1.3.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv-platform/3.1.0-1.3/opencv-platform-3.1.0-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv-platform/3.1.0-1.3/opencv-platform-3.1.0-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:opencv:3.1.0-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:opencv:android-arm:3.1.0-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-android-arm.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:opencv:android-x86:3.1.0-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-android-x86.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:opencv:linux-armhf:3.1.0-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-linux-armhf.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:opencv:linux-ppc64le:3.1.0-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-linux-ppc64le.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:opencv:linux-x86:3.1.0-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-linux-x86.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:opencv:linux-x86_64:3.1.0-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-linux-x86_64.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:opencv:macosx-x86_64:3.1.0-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-macosx-x86_64.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:opencv:windows-x86:3.1.0-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-windows-x86.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:opencv:windows-x86_64:3.1.0-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-windows-x86_64.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/opencv/3.1.0-1.3/opencv-3.1.0-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco.javacpp-presets:videoinput:0.200-1.3">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/videoinput/0.200-1.3/videoinput-0.200-1.3.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/videoinput/0.200-1.3/videoinput-0.200-1.3-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp-presets/videoinput/0.200-1.3/videoinput-0.200-1.3-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco:javacpp:1.3.2">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp/1.3.2/javacpp-1.3.2.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp/1.3.2/javacpp-1.3.2-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacpp/1.3.2/javacpp-1.3.2-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.bytedeco:javacv:1.3.1">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacv/1.3.1/javacv-1.3.1.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacv/1.3.1/javacv-1.3.1-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/bytedeco/javacv/1.3.1/javacv-1.3.1-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Maven: org.cloudera.htrace:htrace-core:2.04">
@@ -2655,160 +1731,6 @@
       </JAVADOC>
       <SOURCES>
         <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/jettison/jettison/1.1/jettison-1.1-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.codehaus.woodstox:stax2-api:3.1.4">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/woodstox/stax2-api/3.1.4/stax2-api-3.1.4.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/woodstox/stax2-api/3.1.4/stax2-api-3.1.4-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/woodstox/stax2-api/3.1.4/stax2-api-3.1.4-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.datavec:datavec-api:0.8.0">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.8.0/datavec-api-0.8.0.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.8.0/datavec-api-0.8.0-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/datavec/datavec-api/0.8.0/datavec-api-0.8.0-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.datavec:datavec-data-image:0.8.0">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/datavec/datavec-data-image/0.8.0/datavec-data-image-0.8.0.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/datavec/datavec-data-image/0.8.0/datavec-data-image-0.8.0-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/datavec/datavec-data-image/0.8.0/datavec-data-image-0.8.0-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.datavec:datavec-nd4j-common:0.8.0">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/datavec/datavec-nd4j-common/0.8.0/datavec-nd4j-common-0.8.0.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/datavec/datavec-nd4j-common/0.8.0/datavec-nd4j-common-0.8.0-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/datavec/datavec-nd4j-common/0.8.0/datavec-nd4j-common-0.8.0-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.datavec:datavec-spark_2.10:0.8.0_spark_1">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/datavec/datavec-spark_2.10/0.8.0_spark_1/datavec-spark_2.10-0.8.0_spark_1.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/datavec/datavec-spark_2.10/0.8.0_spark_1/datavec-spark_2.10-0.8.0_spark_1-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/datavec/datavec-spark_2.10/0.8.0_spark_1/datavec-spark_2.10-0.8.0_spark_1-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.datavec:datavec-spark_2.11:0.8.0_spark_1">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/datavec/datavec-spark_2.11/0.8.0_spark_1/datavec-spark_2.11-0.8.0_spark_1.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/datavec/datavec-spark_2.11/0.8.0_spark_1/datavec-spark_2.11-0.8.0_spark_1-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/datavec/datavec-spark_2.11/0.8.0_spark_1/datavec-spark_2.11-0.8.0_spark_1-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.deeplearning4j:deeplearning4j-core:0.8.0">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-core/0.8.0/deeplearning4j-core-0.8.0.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-core/0.8.0/deeplearning4j-core-0.8.0-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-core/0.8.0/deeplearning4j-core-0.8.0-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.deeplearning4j:deeplearning4j-modelimport:0.8.0">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-modelimport/0.8.0/deeplearning4j-modelimport-0.8.0.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-modelimport/0.8.0/deeplearning4j-modelimport-0.8.0-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-modelimport/0.8.0/deeplearning4j-modelimport-0.8.0-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.deeplearning4j:deeplearning4j-nlp:0.8.0">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nlp/0.8.0/deeplearning4j-nlp-0.8.0.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nlp/0.8.0/deeplearning4j-nlp-0.8.0-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nlp/0.8.0/deeplearning4j-nlp-0.8.0-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.deeplearning4j:deeplearning4j-nn:0.8.0">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nn/0.8.0/deeplearning4j-nn-0.8.0.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nn/0.8.0/deeplearning4j-nn-0.8.0-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-nn/0.8.0/deeplearning4j-nn-0.8.0-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.deeplearning4j:deeplearning4j-ui-components:0.8.0">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-ui-components/0.8.0/deeplearning4j-ui-components-0.8.0.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-ui-components/0.8.0/deeplearning4j-ui-components-0.8.0-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/deeplearning4j/deeplearning4j-ui-components/0.8.0/deeplearning4j-ui-components-0.8.0-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.deeplearning4j:dl4j-spark_2.11:0.8.0_spark_1">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/deeplearning4j/dl4j-spark_2.11/0.8.0_spark_1/dl4j-spark_2.11-0.8.0_spark_1.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/deeplearning4j/dl4j-spark_2.11/0.8.0_spark_1/dl4j-spark_2.11-0.8.0_spark_1-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/deeplearning4j/dl4j-spark_2.11/0.8.0_spark_1/dl4j-spark_2.11-0.8.0_spark_1-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.eclipse.jetty.orbit:javax.servlet:3.0.0.v201112011016">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/orbit/javax.servlet/3.0.0.v201112011016/javax.servlet-3.0.0.v201112011016.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/orbit/javax.servlet/3.0.0.v201112011016/javax.servlet-3.0.0.v201112011016-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jetty/orbit/javax.servlet/3.0.0.v201112011016/javax.servlet-3.0.0.v201112011016-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.freemarker:freemarker:2.3.23">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/freemarker/freemarker/2.3.23/freemarker-2.3.23.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/freemarker/freemarker/2.3.23/freemarker-2.3.23-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/freemarker/freemarker/2.3.23/freemarker-2.3.23-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Maven: org.fusesource.leveldbjni:leveldbjni-all:1.8">
@@ -3031,17 +1953,6 @@
         <root url="jar://$MAVEN_REPOSITORY$/org/jruby/joni/joni/2.1.2/joni-2.1.2-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Maven: org.json4s:json4s-ast_2.10:3.2.10">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/json4s/json4s-ast_2.10/3.2.10/json4s-ast_2.10-3.2.10.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/json4s/json4s-ast_2.10/3.2.10/json4s-ast_2.10-3.2.10-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/json4s/json4s-ast_2.10/3.2.10/json4s-ast_2.10-3.2.10-sources.jar!/" />
-      </SOURCES>
-    </library>
     <library name="Maven: org.json4s:json4s-ast_2.11:3.2.11">
       <CLASSES>
         <root url="jar://$MAVEN_REPOSITORY$/org/json4s/json4s-ast_2.11/3.2.11/json4s-ast_2.11-3.2.11.jar!/" />
@@ -3051,17 +1962,6 @@
       </JAVADOC>
       <SOURCES>
         <root url="jar://$MAVEN_REPOSITORY$/org/json4s/json4s-ast_2.11/3.2.11/json4s-ast_2.11-3.2.11-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.json4s:json4s-core_2.10:3.2.10">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/json4s/json4s-core_2.10/3.2.10/json4s-core_2.10-3.2.10.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/json4s/json4s-core_2.10/3.2.10/json4s-core_2.10-3.2.10-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/json4s/json4s-core_2.10/3.2.10/json4s-core_2.10-3.2.10-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Maven: org.json4s:json4s-core_2.11:3.2.11">
@@ -3075,17 +1975,6 @@
         <root url="jar://$MAVEN_REPOSITORY$/org/json4s/json4s-core_2.11/3.2.11/json4s-core_2.11-3.2.11-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Maven: org.json4s:json4s-jackson_2.10:3.2.10">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/json4s/json4s-jackson_2.10/3.2.10/json4s-jackson_2.10-3.2.10.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/json4s/json4s-jackson_2.10/3.2.10/json4s-jackson_2.10-3.2.10-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/json4s/json4s-jackson_2.10/3.2.10/json4s-jackson_2.10-3.2.10-sources.jar!/" />
-      </SOURCES>
-    </library>
     <library name="Maven: org.json4s:json4s-jackson_2.11:3.2.11">
       <CLASSES>
         <root url="jar://$MAVEN_REPOSITORY$/org/json4s/json4s-jackson_2.11/3.2.11/json4s-jackson_2.11-3.2.11.jar!/" />
@@ -3095,17 +1984,6 @@
       </JAVADOC>
       <SOURCES>
         <root url="jar://$MAVEN_REPOSITORY$/org/json4s/json4s-jackson_2.11/3.2.11/json4s-jackson_2.11-3.2.11-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.json:json:20131018">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/json/json/20131018/json-20131018.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/json/json/20131018/json-20131018-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/json/json/20131018/json-20131018-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Maven: org.mortbay.jetty:jetty-util:6.1.26">
@@ -3130,116 +2008,6 @@
         <root url="jar://$MAVEN_REPOSITORY$/org/mortbay/jetty/jetty/6.1.26/jetty-6.1.26-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Maven: org.nd4j:jackson:0.8.0">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/jackson/0.8.0/jackson-0.8.0.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/jackson/0.8.0/jackson-0.8.0-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/jackson/0.8.0/jackson-0.8.0-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.nd4j:nd4j-api:0.8.0">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/nd4j-api/0.8.0/nd4j-api-0.8.0.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/nd4j-api/0.8.0/nd4j-api-0.8.0-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/nd4j-api/0.8.0/nd4j-api-0.8.0-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.nd4j:nd4j-base64:0.8.0">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/nd4j-base64/0.8.0/nd4j-base64-0.8.0.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/nd4j-base64/0.8.0/nd4j-base64-0.8.0-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/nd4j-base64/0.8.0/nd4j-base64-0.8.0-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.nd4j:nd4j-buffer:0.8.0">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/nd4j-buffer/0.8.0/nd4j-buffer-0.8.0.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/nd4j-buffer/0.8.0/nd4j-buffer-0.8.0-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/nd4j-buffer/0.8.0/nd4j-buffer-0.8.0-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.nd4j:nd4j-common:0.8.0">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/nd4j-common/0.8.0/nd4j-common-0.8.0.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/nd4j-common/0.8.0/nd4j-common-0.8.0-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/nd4j-common/0.8.0/nd4j-common-0.8.0-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.nd4j:nd4j-context:0.8.0">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/nd4j-context/0.8.0/nd4j-context-0.8.0.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/nd4j-context/0.8.0/nd4j-context-0.8.0-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/nd4j-context/0.8.0/nd4j-context-0.8.0-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.nd4j:nd4j-jackson:0.8.0">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/nd4j-jackson/0.8.0/nd4j-jackson-0.8.0.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/nd4j-jackson/0.8.0/nd4j-jackson-0.8.0-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/nd4j-jackson/0.8.0/nd4j-jackson-0.8.0-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.nd4j:nd4j-native-api:0.8.0">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/nd4j-native-api/0.8.0/nd4j-native-api-0.8.0.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/nd4j-native-api/0.8.0/nd4j-native-api-0.8.0-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/nd4j-native-api/0.8.0/nd4j-native-api-0.8.0-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.nd4j:nd4j-native:0.8.0">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/nd4j-native/0.8.0/nd4j-native-0.8.0.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/nd4j-native/0.8.0/nd4j-native-0.8.0-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/nd4j-native/0.8.0/nd4j-native-0.8.0-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.nd4j:nd4j-native:windows-x86_64:0.8.0">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/nd4j-native/0.8.0/nd4j-native-0.8.0-windows-x86_64.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/nd4j-native/0.8.0/nd4j-native-0.8.0-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/nd4j/nd4j-native/0.8.0/nd4j-native-0.8.0-sources.jar!/" />
-      </SOURCES>
-    </library>
     <library name="Maven: org.objenesis:objenesis:2.1">
       <CLASSES>
         <root url="jar://$MAVEN_REPOSITORY$/org/objenesis/objenesis/2.1/objenesis-2.1.jar!/" />
@@ -3249,28 +2017,6 @@
       </JAVADOC>
       <SOURCES>
         <root url="jar://$MAVEN_REPOSITORY$/org/objenesis/objenesis/2.1/objenesis-2.1-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.projectlombok:lombok:1.16.10">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.16.10/lombok-1.16.10.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.16.10/lombok-1.16.10-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.16.10/lombok-1.16.10-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.reflections:reflections:0.9.10">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/reflections/reflections/0.9.10/reflections-0.9.10.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/reflections/reflections/0.9.10/reflections-0.9.10-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/reflections/reflections/0.9.10/reflections-0.9.10-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Maven: org.roaringbitmap:RoaringBitmap:0.5.11">
@@ -3435,50 +2181,6 @@
         <root url="jar://$MAVEN_REPOSITORY$/org/spire-math/spire_2.11/0.7.4/spire_2.11-0.7.4-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Maven: org.tachyonproject:tachyon-client:0.8.2">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/tachyonproject/tachyon-client/0.8.2/tachyon-client-0.8.2.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/tachyonproject/tachyon-client/0.8.2/tachyon-client-0.8.2-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/tachyonproject/tachyon-client/0.8.2/tachyon-client-0.8.2-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.tachyonproject:tachyon-underfs-hdfs:0.8.2">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/tachyonproject/tachyon-underfs-hdfs/0.8.2/tachyon-underfs-hdfs-0.8.2.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/tachyonproject/tachyon-underfs-hdfs/0.8.2/tachyon-underfs-hdfs-0.8.2-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/tachyonproject/tachyon-underfs-hdfs/0.8.2/tachyon-underfs-hdfs-0.8.2-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.tachyonproject:tachyon-underfs-local:0.8.2">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/tachyonproject/tachyon-underfs-local/0.8.2/tachyon-underfs-local-0.8.2.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/tachyonproject/tachyon-underfs-local/0.8.2/tachyon-underfs-local-0.8.2-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/tachyonproject/tachyon-underfs-local/0.8.2/tachyon-underfs-local-0.8.2-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.tachyonproject:tachyon-underfs-s3:0.8.2">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/tachyonproject/tachyon-underfs-s3/0.8.2/tachyon-underfs-s3-0.8.2.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/tachyonproject/tachyon-underfs-s3/0.8.2/tachyon-underfs-s3-0.8.2-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/tachyonproject/tachyon-underfs-s3/0.8.2/tachyon-underfs-s3-0.8.2-sources.jar!/" />
-      </SOURCES>
-    </library>
     <library name="Maven: org.tukaani:xz:1.0">
       <CLASSES>
         <root url="jar://$MAVEN_REPOSITORY$/org/tukaani/xz/1.0/xz-1.0.jar!/" />
@@ -3490,17 +2192,6 @@
         <root url="jar://$MAVEN_REPOSITORY$/org/tukaani/xz/1.0/xz-1.0-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Maven: org.uncommons.maths:uncommons-maths:1.2.2a">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/uncommons/maths/uncommons-maths/1.2.2a/uncommons-maths-1.2.2a.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/uncommons/maths/uncommons-maths/1.2.2a/uncommons-maths-1.2.2a-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/uncommons/maths/uncommons-maths/1.2.2a/uncommons-maths-1.2.2a-sources.jar!/" />
-      </SOURCES>
-    </library>
     <library name="Maven: org.xerial.snappy:snappy-java:1.1.2.6">
       <CLASSES>
         <root url="jar://$MAVEN_REPOSITORY$/org/xerial/snappy/snappy-java/1.1.2.6/snappy-java-1.1.2.6.jar!/" />
@@ -3510,17 +2201,6 @@
       </JAVADOC>
       <SOURCES>
         <root url="jar://$MAVEN_REPOSITORY$/org/xerial/snappy/snappy-java/1.1.2.6/snappy-java-1.1.2.6-sources.jar!/" />
-      </SOURCES>
-    </library>
-    <library name="Maven: org.yaml:snakeyaml:1.12">
-      <CLASSES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.12/snakeyaml-1.12.jar!/" />
-      </CLASSES>
-      <JAVADOC>
-        <root url="jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.12/snakeyaml-1.12-javadoc.jar!/" />
-      </JAVADOC>
-      <SOURCES>
-        <root url="jar://$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.12/snakeyaml-1.12-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Maven: oro:oro:2.0.8">
