@@ -54,17 +54,6 @@
             <version>1.9.13</version>
         </dependency>
 
-        <!-- <dependency>
-             <groupId>org.apache.hadoop</groupId>
-             <artifactId>hadoop-client</artifactId>
-             <version>2.5.0</version>
-             <exclusions>
-                 <exclusion>
-                     <groupId>javax.servlet</groupId>
-                     <artifactId>servlet-api</artifactId>
-                 </exclusion>
-             </exclusions>
-         </dependency>-->
         <dependency>
             <groupId>org.apache.hadoop</groupId>
             <artifactId>hadoop-mapreduce-examples</artifactId>
@@ -90,17 +79,7 @@
             <version>0.4.20</version>
         </dependency>
 
-        <!--        <dependency>
-                    <groupId>org.apache.spark</groupId>
-                    <artifactId>spark-core_2.10</artifactId>
-                    <version>1.6.0</version>
-                </dependency>
 
-                <dependency>
-                    <groupId>org.apache.spark</groupId>
-                    <artifactId>spark-mllib_2.10</artifactId>
-                    <version>1.6.0</version>
-                </dependency>-->
         <dependency>
             <groupId>org.apache.spark</groupId>
             <artifactId>spark-mllib_2.11</artifactId>
@@ -185,19 +164,12 @@
         </dependency>
 
 
-        <!--<dependency>-->
-        <!--<groupId>com.google.guava</groupId>-->
-        <!--<artifactId>guava</artifactId>-->
-        <!--<version>20.0</version>-->
-        <!--</dependency>-->
     </dependencies>
 
     <build>
         <sourceDirectory>src/main/java</sourceDirectory>
 
-        <!--<filters>-->
-            <!--<filter>${basedir}/filter.properties</filter>-->
-        <!--</filters>-->
+
 
         <resources>
             <resource>

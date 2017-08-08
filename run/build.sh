@@ -20,8 +20,6 @@ mvn package
 
 installTime=`date +%Y%m%d-%H:%M`
 
-cd ../../
-
 installDir=./release/$installTime
 if [ -d $installDir ];then
 	rm -r $installDir
@@ -31,7 +29,7 @@ mkdir -p $installDir
 cp $basedir/../target/*.jar $installDir
 cp -r $basedir/../target/classes/* $installDir
 
-runDir=./models
+runDir=./guthupDemo
 if [ -h $runDir ];then
 	rm $runDir
 fi
